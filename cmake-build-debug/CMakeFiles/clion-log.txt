@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/emp/c++/asio_test
+-- Boost version: 1.69.0
+/Users/emp/c++/asio_test/client.cpp
+/Users/emp/c++/asio_test/io_pool.cpp
+/Users/emp/c++/asio_test/server.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/emp/c++/asio_test/cmake-build-debug

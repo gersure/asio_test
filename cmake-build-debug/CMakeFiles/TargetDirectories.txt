@@ -1,0 +1,5 @@
+/Users/emp/c++/asio_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/emp/c++/asio_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/emp/c++/asio_test/cmake-build-debug/CMakeFiles/server.dir
+/Users/emp/c++/asio_test/cmake-build-debug/CMakeFiles/io_pool.dir
+/Users/emp/c++/asio_test/cmake-build-debug/CMakeFiles/client.dir
